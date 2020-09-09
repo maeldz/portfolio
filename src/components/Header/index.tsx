@@ -55,7 +55,7 @@ const Header: React.FC = () => {
             </Link>
           </li>
           <li>
-            <Link href="#skills-section">
+            <Link href="#skills-section" passHref>
               <a
                 id="skills"
                 className={active === 'skills' ? 'active' : null}
