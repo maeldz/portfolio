@@ -7,6 +7,7 @@ import postgresql from '../assets/postgresql.png';
 import mongodb from '../assets/mongodb.png';
 import grocery from '../assets/grocery.png';
 import jobel from '../assets/jobel.png';
+import coffeeShop from '../assets/coffee_shop.jpg';
 import profilePicture from '../assets/profile.jpg';
 
 const data = {
@@ -90,6 +91,13 @@ const data = {
       tags: ['java', 'php', 'mysql'],
       url: 'https://github.com/maeldz/cadjobel',
       image: jobel,
+    },
+    {
+      title: 'Coffee Shop',
+      description: 'Projeto de uma loja de café usando animações.',
+      tags: ['typescript', 'react native', 'expo', 'mobile'],
+      url: 'https://github.com/maeldz/coffee-shop-react-native',
+      image: coffeeShop,
     },
   ],
   contacts: {
