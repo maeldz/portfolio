@@ -8,6 +8,7 @@ import mongodb from '../assets/mongodb.png';
 import grocery from '../assets/grocery.png';
 import jobel from '../assets/jobel.png';
 import coffeeShop from '../assets/coffee_shop.jpg';
+import orix from '../assets/orix.png';
 import profilePicture from '../assets/profile.jpg';
 
 const data = {
@@ -98,6 +99,13 @@ const data = {
       tags: ['typescript', 'react native', 'expo', 'mobile'],
       url: 'https://github.com/maeldz/coffee-shop-react-native',
       image: coffeeShop,
+    },
+    {
+      title: 'Orix Food App',
+      description: 'Loja de comida.',
+      tags: ['typescript', 'react native', 'expo', 'mobile'],
+      url: 'https://github.com/maeldz/orix-food-app',
+      image: orix,
     },
   ],
   contacts: {
