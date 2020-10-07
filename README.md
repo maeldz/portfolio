@@ -1,32 +1,34 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# :flower_playing_cards: portifolio
 
-Demo: [Portfolio](https://maeldz.github.io/portfolio)
+## :computer: Demo
 
-## Getting Started
+[Portfolio](https://maeldz.github.io/portfolio)
 
-First, run the development server:
+## :exclamation: Possible improvements
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+- Improve the layout
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## :wrench: Running the project
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+- Clone this repository.
+- Install all dependencies using the command `yarn`.
+- Run `yarn dev` to start the development server or `yarn build` to generate a project build.
 
-## Learn More
+## :pencil2: Observations
 
-To learn more about Next.js, take a look at the following resources:
+- All personal information, skills, jobs and etc. can be changed by the file in `src/static/data.ts`
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## :fire: Used technologies
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- ReactJS
+- NextJS
+- Styled Components
+- Others ReactJS libs.
 
-## Deploy on Vercel
+## :man: Thanks
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- [Lavinia Melo](https://dribbble.com/laviniamelo) for his design.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## :man: Contributors
+
+- [@maeldz](https://github.com/maeldz)
