@@ -9,6 +9,7 @@ import grocery from '../assets/grocery.png';
 import jobel from '../assets/jobel.png';
 import coffeeShop from '../assets/coffee_shop.jpg';
 import orix from '../assets/orix.png';
+import interClone from '../assets/inter_clone.jpg';
 import profilePicture from '../assets/profile.jpg';
 
 const data = {
@@ -106,6 +107,13 @@ const data = {
       tags: ['typescript', 'react native', 'expo', 'mobile'],
       url: 'https://github.com/maeldz/orix-food-app',
       image: orix,
+    },
+    {
+      title: 'Inter Clone',
+      description: 'UI clone do app do banco inter',
+      tags: ['typescript', 'react native', 'expo', 'mobile'],
+      url: 'https://github.com/maeldz/inter-clone',
+      image: interClone,
     },
   ],
   contacts: {
