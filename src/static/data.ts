@@ -19,12 +19,12 @@ const data = {
     description: 'Apaixonado por JavaScript e todo seu ecossistema.',
     image: profilePicture,
     cv:
-      'https://drive.google.com/uc?id=1aVzfN-FSYVuSK8TTVZ6vbUN_0xy1NGwe&export=download',
+      'https://drive.google.com/uc?id=1dSx0rppXDPRrPkTWgRQ6mosk2Tsj-2_Z&export=download',
   },
   about: {
     title: 'Conheça um pouco sobre mim',
     description:
-      'Me chamo Ismael, atualmente tenho 23 anos, moro em Florianópolis/SC e sou programador JavaScript fullstack, atuo com as tecnologias mais modernas que cercam a linguagem, tais como ReactJS (web), React Native (mobile) e NodeJS (backend). \n\nNão lembro quando comecei a programar mas assim que tive meu primeiro computador já comecei a me aventurar com meus blogs e meus programinhas em Visual Basic. \n\nComecei a estudar JavaScript por volta de 1 ano atrás e desde então desenvolvi um desejo enorme de sempre aprender mais e estar por dentro do que há de novo no mundo desta fantástica linguagem. Atualmente desenvolvo projetos a fim de enriquecer meu portifólio e adquirir cada vez mais experiências.',
+      'Me chamo Ismael, atualmente tenho 28 anos, moro em Blumenau/SC, sou programador JavaScript fullstack, atuo com as tecnologias mais modernas que cercam a linguagem, tais como ReactJS (web), React Native (mobile) e NodeJS (backend). \n\nNão lembro quando comecei a programar mas assim que tive meu primeiro computador já comecei a me aventurar com meus blogs e meus programinhas em Visual Basic. \n\nComecei a estudar JavaScript em 2020 e desde então desenvolvi um desejo enorme de sempre aprender mais e estar por dentro do que há de novo no mundo desta fantástica linguagem. Atualmente desenvolvo projetos a fim de enriquecer meu portifólio e adquirir cada vez mais experiências.',
   },
   skills: [
     {
